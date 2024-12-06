@@ -1,0 +1,15 @@
+VCD info: dumpfile wave.vcd opened for output.
+VCD warning: $dumpvars: Package ($unit) is not dumpable with VCD.
+[86930] top.u_tester.memory_test   RAW 00000000-000003ff 4-byte test OK
+[173630] top.u_tester.memory_test RAAWA 00000000-000003ff 4-byte test OK
+[347370] top.u_tester.memory_test   RAW 00000000-000003ff 2-byte test OK
+[521110] top.u_tester.memory_test RAAWA 00000000-000003ff 2-byte test OK
+[868930] top.u_tester.memory_test   RAW 00000000-000003ff 1-byte test OK
+[1216750] top.u_tester.memory_test RAAWA 00000000-000003ff 1-byte test OK
+[1303450] top.u_tester.memory_test   RAW 00000400-000007ff 4-byte test OK
+[1390150] top.u_tester.memory_test RAAWA 00000400-000007ff 4-byte test OK
+[1563890] top.u_tester.memory_test   RAW 00000400-000007ff 2-byte test OK
+[1737630] top.u_tester.memory_test RAAWA 00000400-000007ff 2-byte test OK
+[2085450] top.u_tester.memory_test   RAW 00000400-000007ff 1-byte test OK
+[2433270] top.u_tester.memory_test RAAWA 00000400-000007ff 1-byte test OK
+../../design/top.v:161: $finish(2) called at 2433770 (1ns)
